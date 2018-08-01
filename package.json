@@ -12,7 +12,7 @@
     "react",
     "music"
   ],
-  "author": "René Dohmen",
+  "author": "René Dohmen <acidjunk@gmail.com>",
   "license": "GPL-3.0",
   "devDependencies": {
     "babel-core": "^6.26.3",
